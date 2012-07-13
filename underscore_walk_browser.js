@@ -1,5 +1,5 @@
-var _ = require("./underscore");
-require("./underscore_extended");
+//depends on underscore_extended
+//depends on underscore
 _.mixin({
 	    /*
 	     * (defn walk
